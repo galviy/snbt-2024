@@ -11,6 +11,8 @@
 - C. 65
 - D. 70
 - E. 75
+
+
 ### 2.
 
 
@@ -24,6 +26,8 @@
 - C. 3
 - D. 4
 - E. 5
+
+
 ### 3.
 
 
@@ -37,6 +41,8 @@
 - C. 4
 - D. 5
 - E. 6
+
+
 ### 4.
 
 
@@ -50,6 +56,8 @@
 - C. 12
 - D. 10
 - E. 8
+
+
 ### 5.
 
 
@@ -63,6 +71,8 @@
 - C. (2) dan (4) SAJA yang benar.
 - D. HANYA (4) yang benar.
 - E. SEMUA pilihan benar.
+
+
 ### 6.
 
 
@@ -77,6 +87,8 @@
 - C. 2
 - D. 3
 - E. 4
+
+
 ### 7.
 
 
@@ -90,6 +102,8 @@
 - B. Q > P.
 - C. P = Q.
 - D. Tidak dapat ditentukan hubungan P dan Q.
+
+
 ### 8.
 
 
@@ -103,6 +117,8 @@
 - C. Pernyataan (1) dan (2) cukup untuk menjawab pertanyaan, tetapi salah satu dari keduanya tidak cukup.
 - D. Pernyataan (1) ataupun pernyataan (2) SAJA sudah cukup untuk menjawab pertanyaan.
 - E. Pernyataan (1) dan pernyataan (2) tidak cukup untuk menjawab pertanyaan.
+
+
 ### 9.
 
 
@@ -125,6 +141,8 @@
 - C. 23136
 - D. 12348
 - E. 52213
+
+
 ### 11.
 
 
@@ -139,6 +157,8 @@
 - C.
 - D.
 - E.
+
+
 ![](images//1714124803859_tf5fpl.png)
 
 ![](images//1714124803860_salrkd.png)
@@ -161,6 +181,8 @@
 - C. kurva memotong sumbu y positif.
 - D. kurva memotong sumbu y negatif.
 - E. titik puncak berada di kuadran II.
+
+
 ### 13.
 
 
@@ -174,6 +196,8 @@
 - C. 2 dan 4 saja yang benar.
 - D. Hanya 4 yang benar.
 - E. Semua pilihan benar.
+
+
 ### 14.
 
 
@@ -187,6 +211,8 @@
 - C. 2
 - D. 3
 - E. 4
+
+
 ### 15.
 
 
@@ -202,6 +228,8 @@
 - B. Q > P.
 - C. P = Q.
 - D. Tidak dapat ditentukan hubungan P dan Q.
+
+
 ### 16.
 
 
@@ -215,6 +243,8 @@
 - B. Q > P.
 - C. P = Q.
 - D. Tidak dapat ditentukan hubungan P dan Q.
+
+
 ### 17.
 
 
@@ -229,6 +259,8 @@
 - C. Pernyataan 2 dan 3 saja yang benar.
 - D. Pernyataan 3 saja yang benar.
 - E. Tidak ada pernyataan yang benar.
+
+
 ### 18.
 
 
@@ -243,6 +275,8 @@
 - C. Pernyataan 1 dan 2 cukup untuk menjawab pertanyaan, tetapi salah satu dari keduanya tidak cukup.
 - D. Pernyataan 1 atau pernyataan 2 saja sudah cukup untuk menjawab pertanyaan.
 - E. Pernyataan 1 dan pernyataan 2 tidak cukup untuk menjawab pertanyaan.
+
+
 ### 19.
 
 
@@ -256,3 +290,5 @@
 - C. Pernyataan 1 dan 2 cukup untuk menjawab pertanyaan, tetapi salah satu dari keduanya tidak cukup.
 - D. Pernyataan 1 atau pernyataan 2 saja sudah cukup untuk menjawab pertanyaan.
 - E. Pernyataan 1 dan pernyataan 2 tidak cukup untuk menjawab pertanyaan.
+
+
