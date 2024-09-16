@@ -6,7 +6,7 @@ Salken ya... nama aku galvin sekarang sedang berkuliah di undip jurusan informat
 
 ### Curhat bentar..
 
-Alasan aku masi nge-save soal2 snbt karena aku udah pesimis saat snbt kemarin..
+Alasan aku masi nge-save soal2 snbt karena aku sudah pesimis saat snbt kemarin dan berniat untuk gapyear..
 
 Saat hari -H utbk aku itu demam, entah kenapa padahal malem nya aku sehat, bahkan masi belajar...
 
