@@ -1,0 +1,900 @@
+{
+  "soal": [
+    {
+      "nomor": 1,
+      "soalCerita": {
+        "text": "Ruangan yang alasnya berbentuk persegi panjang. Dinding sebelah kiri dan kanan pada bagian bawah akan dipasang keramik. Keramik yang dipakai tidak ada yang di potong berukuran 30 cm x 30 cm terdiri dari warna putih dan warna biru, seperti tampak pada gambar. Dinding sebelah kiri terdapat tiga jendel yang jarak jendela ke dinding 1 m dan lebar satu jendela antara 1 m sampai  2 meter",
+        "imageUrls": [
+          "{{root_media}}/1714210319265_rawa56.png"
+        ]
+      },
+      "soal": {
+        "text": "Panjang ruangan minimal sebelah kanan maupun sebelah kiri adalah ... cm.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "360",
+          "imageUrls": []
+        },
+        {
+          "text": "420",
+          "imageUrls": []
+        },
+        {
+          "text": "480",
+          "imageUrls": []
+        },
+        {
+          "text": "510",
+          "imageUrls": []
+        },
+        {
+          "text": "600",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "510",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 2,
+      "soalCerita": {
+        "text": "Ruangan yang alasnya berbentuk persegi panjang. Dinding sebelah kiri dan kanan pada bagian bawah akan dipasang keramik. Keramik yang dipakai tidak ada yang di potong berukuran 30 cm x 30 cm terdiri dari warna putih dan warna biru, seperti tampak pada gambar. Dinding sebelah kiri terdapat tiga jendel yang jarak jendela ke dinding 1 m dan lebar satu jendela antara 1 m sampai  2 meter",
+        "imageUrls": [
+          "{{root_media}}/1714210319265_rawa56.png"
+        ]
+      },
+      "soal": {
+        "text": "Luas minimal daerah yang dipasang keramik adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "9 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "9,18 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "10 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "10,8 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "11 m2.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "9,18 m2.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 3,
+      "soalCerita": {
+        "text": "Ruangan yang alasnya berbentuk persegi panjang. Dinding sebelah kiri dan kanan pada bagian bawah akan dipasang keramik. Keramik yang dipakai tidak ada yang di potong berukuran 30 cm x 30 cm terdiri dari warna putih dan warna biru, seperti tampak pada gambar. Dinding sebelah kiri terdapat tiga jendel yang jarak jendela ke dinding 1 m dan lebar satu jendela antara 1 m sampai  2 meter",
+        "imageUrls": [
+          "{{root_media}}/1714210319265_rawa56.png"
+        ]
+      },
+      "soal": {
+        "text": "Untuk memasang keramik dibutuhkan keramik minimal ... buah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "100",
+          "imageUrls": []
+        },
+        {
+          "text": "102",
+          "imageUrls": []
+        },
+        {
+          "text": "120",
+          "imageUrls": []
+        },
+        {
+          "text": "125",
+          "imageUrls": []
+        },
+        {
+          "text": "130",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "102",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 4,
+      "soalCerita": {
+        "text": "Ruangan yang alasnya berbentuk persegi panjang. Dinding sebelah kiri dan kanan pada bagian bawah akan dipasang keramik. Keramik yang dipakai tidak ada yang di potong berukuran 30 cm x 30 cm terdiri dari warna putih dan warna biru, seperti tampak pada gambar. Dinding sebelah kiri terdapat tiga jendel yang jarak jendela ke dinding 1 m dan lebar satu jendela antara 1 m sampai  2 meter",
+        "imageUrls": [
+          "{{root_media}}/1714210319265_rawa56.png"
+        ]
+      },
+      "soal": {
+        "text": "Banyaknya keramik biru yang dibutuhkan adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "35.",
+          "imageUrls": []
+        },
+        {
+          "text": "41.",
+          "imageUrls": []
+        },
+        {
+          "text": "52.",
+          "imageUrls": []
+        },
+        {
+          "text": "65.",
+          "imageUrls": []
+        },
+        {
+          "text": "75",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "52.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 5,
+      "soalCerita": {
+        "text": "Ada 100 bola berwarna putih diletakan berderet. Bola yang berada pada urutan kelipatan empat diberi warna merah, bola yang berada pada urutan kelipatan tiga diberi warna biru namun yang sudah diberi warna merah dilewat, dan yang berada pada urutan kelipatan lima diberi warna kuning namun yang sudah diberi warna merah dan biru dilewat.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Banyaknya bola yang berwarna merah adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "13.",
+          "imageUrls": []
+        },
+        {
+          "text": "16.",
+          "imageUrls": []
+        },
+        {
+          "text": "20.",
+          "imageUrls": []
+        },
+        {
+          "text": "21.",
+          "imageUrls": []
+        },
+        {
+          "text": "25.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "25.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 6,
+      "soalCerita": {
+        "text": "Ada 100 bola berwarna putih diletakan berderet. Bola yang berada pada urutan kelipatan empat diberi warna merah, bola yang berada pada urutan kelipatan tiga diberi warna biru namun yang sudah diberi warna merah dilewat, dan yang berada pada urutan kelipatan lima diberi warna kuning namun yang sudah diberi warna merah dan biru dilewat.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Banyaknya bola yang berwarna biru adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "15.",
+          "imageUrls": []
+        },
+        {
+          "text": "20.",
+          "imageUrls": []
+        },
+        {
+          "text": "25.",
+          "imageUrls": []
+        },
+        {
+          "text": "32.",
+          "imageUrls": []
+        },
+        {
+          "text": "34.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "25.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 7,
+      "soalCerita": {
+        "text": "Ada 100 bola berwarna putih diletakan berderet. Bola yang berada pada urutan kelipatan empat diberi warna merah, bola yang berada pada urutan kelipatan tiga diberi warna biru namun yang sudah diberi warna merah dilewat, dan yang berada pada urutan kelipatan lima diberi warna kuning namun yang sudah diberi warna merah dan biru dilewat.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Banyaknya bola yang berwarna kuning adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "4.",
+          "imageUrls": []
+        },
+        {
+          "text": "10.",
+          "imageUrls": []
+        },
+        {
+          "text": "16.",
+          "imageUrls": []
+        },
+        {
+          "text": "20.",
+          "imageUrls": []
+        },
+        {
+          "text": "26.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "10.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 8,
+      "soalCerita": {
+        "text": "Ada 100 bola berwarna putih diletakan berderet. Bola yang berada pada urutan kelipatan empat diberi warna merah, bola yang berada pada urutan kelipatan tiga diberi warna biru namun yang sudah diberi warna merah dilewat, dan yang berada pada urutan kelipatan lima diberi warna kuning namun yang sudah diberi warna merah dan biru dilewat.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Banyaknya bola yang berwarna putih yang adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "20.",
+          "imageUrls": []
+        },
+        {
+          "text": "30.",
+          "imageUrls": []
+        },
+        {
+          "text": "40.",
+          "imageUrls": []
+        },
+        {
+          "text": "50.",
+          "imageUrls": []
+        },
+        {
+          "text": "60.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "40.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 9,
+      "soalCerita": {
+        "text": "Dua tangki air berbentuk kerucut terbalik,  masing-masing diisi air dengan laju pengisian dan waktu awal pengisian yang sama saat kondisi tangki masih kosong. seperti gambar berikut dengan (ukuran pada gambar dalam satuan meter).",
+        "imageUrls": [
+          "{{root_media}}/1714211662818_3m6zfl.png"
+        ]
+      },
+      "soal": {
+        "text": "Perbandingan r1 dan r2 adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714211893308_zzdvg6.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714211893308_jdx0bp.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714211893308_663obq.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714211893308_r48go1.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714351060888_m0wgfi.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714351060888_m0wgfi.png"
+        ]
+      }
+    },
+    {
+      "nomor": 10,
+      "soalCerita": {
+        "text": "Dua tangki air berbentuk kerucut terbalik,  masing-masing diisi air dengan laju pengisian dan waktu awal pengisian yang sama saat kondisi tangki masih kosong. seperti gambar berikut dengan (ukuran pada gambar dalam satuan meter).",
+        "imageUrls": [
+          "{{root_media}}/1714211662818_3m6zfl.png"
+        ]
+      },
+      "soal": {
+        "text": "Perbandingan h1 dengan h2 adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212065460_9a1gs8.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714361468230_7shi98.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212065460_ykp01w.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212065460_4v26rm.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212065460_6cwbky.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714361468230_7shi98.png"
+        ]
+      }
+    },
+    {
+      "nomor": 11,
+      "soalCerita": {
+        "text": "Dua tangki air berbentuk kerucut terbalik,  masing-masing diisi air dengan laju pengisian dan waktu awal pengisian yang sama saat kondisi tangki masih kosong. seperti gambar berikut dengan (ukuran pada gambar dalam satuan meter).",
+        "imageUrls": [
+          "{{root_media}}/1714211662818_3m6zfl.png"
+        ]
+      },
+      "soal": {
+        "text": "Misal p adalah sisa tinggi tangki II ketika tangki I sudah penuh. Nilai p adalah ... meter.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212346491_u5khix.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212346491_01g9eh.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714351125327_w85sar.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212346491_skkv3w.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714212346491_s07s98.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714351125327_w85sar.png"
+        ]
+      }
+    },
+    {
+      "nomor": 12,
+      "soalCerita": {
+        "text": "Toko M menjual minuman xyz dengan  1 botol ukuran besar dan 2 botol ukuran sedang seharga Rp44.000,00, sedangkan 1 botol ukuran besar dan 2 botol ukuran kecil dijual Rp36.000,00. Pada saat Toko M memberi potongan harga Rp1.000,00 untuk botol ukuran besar dan sedang, Alwi membayar Rp81.000,00 untuk 3 botol ukuran besar, 2 botol ukuran sedang, dan 1 botol ukuran kecil.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Jumlah harga 1 botol ukuran besar, 1 botol ukuran sedang, dan 1 botol ukuran kecil adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp35.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp40.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp45.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp50.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp55.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp40.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 13,
+      "soalCerita": {
+        "text": "Toko M menjual minuman xyz dengan  1 botol ukuran besar dan 2 botol ukuran sedang seharga Rp44.000,00, sedangkan 1 botol ukuran besar dan 2 botol ukuran kecil dijual Rp36.000,00. Pada saat Toko M memberi potongan harga Rp1.000,00 untuk botol ukuran besar dan sedang, Alwi membayar Rp81.000,00 untuk 3 botol ukuran besar, 2 botol ukuran sedang, dan 1 botol ukuran kecil.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Harga 1 botol ukuran besar sebelum potongan harga adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp13.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp14.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp15.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp16.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp17.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp16.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 14,
+      "soalCerita": {
+        "text": "Toko M menjual minuman xyz dengan  1 botol ukuran besar dan 2 botol ukuran sedang seharga Rp44.000,00, sedangkan 1 botol ukuran besar dan 2 botol ukuran kecil dijual Rp36.000,00. Pada saat Toko M memberi potongan harga Rp1.000,00 untuk botol ukuran besar dan sedang, Alwi membayar Rp81.000,00 untuk 3 botol ukuran besar, 2 botol ukuran sedang, dan 1 botol ukuran kecil.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Lala memiliki uang Rp38.500,00 rupiah  dan  pada saat toko M memberikan potongan harga. Agar sisa uangnya sekecil mungkin maka lala harus membeli",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "1 botol ukuran besar, 1 botol ukuran sedang, 1 botol ukuran kecil.",
+          "imageUrls": []
+        },
+        {
+          "text": "1 botol ukuran besar dan 2 botol ukuran kecil.",
+          "imageUrls": []
+        },
+        {
+          "text": "1 botol ukuran besar, 1 botol ukuran sedang, 2 botol ukuran kecil.",
+          "imageUrls": []
+        },
+        {
+          "text": "1 botol ukuran sedang dan 2 botol ukuran kecil.",
+          "imageUrls": []
+        },
+        {
+          "text": "2 botol ukuran besar dan 1 botol ukuran sedang.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "1 botol ukuran besar, 1 botol ukuran sedang, 1 botol ukuran kecil.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 15,
+      "soalCerita": {
+        "text": "Data berikut merupakan banyaknya siswa yang memakai kaca mata di lima sekolah.",
+        "imageUrls": [
+          "{{root_media}}/1714212670448_b7yub1.png"
+        ]
+      },
+      "soal": {
+        "text": "Selisih laki-laki dan perempuan yang berkacamata",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "25",
+          "imageUrls": []
+        },
+        {
+          "text": "50.",
+          "imageUrls": []
+        },
+        {
+          "text": "75.",
+          "imageUrls": []
+        },
+        {
+          "text": "100.",
+          "imageUrls": []
+        },
+        {
+          "text": "150.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "150.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 16,
+      "soalCerita": {
+        "text": "Data berikut merupakan banyaknya siswa yang memakai kaca mata di lima sekolah.",
+        "imageUrls": [
+          "{{root_media}}/1714212670448_b7yub1.png"
+        ]
+      },
+      "soal": {
+        "text": "Perempuan berkacamata yang paling banyak di sekolah?",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "SMP 1.",
+          "imageUrls": []
+        },
+        {
+          "text": "SMP 2",
+          "imageUrls": []
+        },
+        {
+          "text": "SMP 3",
+          "imageUrls": []
+        },
+        {
+          "text": "SMP 3",
+          "imageUrls": []
+        },
+        {
+          "text": "SMP 5.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "SMP 3",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 17,
+      "soalCerita": {
+        "text": "Data berikut merupakan banyaknya siswa yang memakai kaca mata di lima sekolah.",
+        "imageUrls": [
+          "{{root_media}}/1714212670448_b7yub1.png"
+        ]
+      },
+      "soal": {
+        "text": "Pernyataan yang benar adalah(1)   Jumlah laki-laki di SMP 1 lebih banyak dari jumlah perempuan di SMP 4.(2)   Selisih laki-laki yang berkacamata di SMP 2 dan SMP 3 adalah 250 orang.(3)   Perbandingan siswa laki-laki dan perempuan di SMP 2 adalah 4 : 3.(4)   Perbandingan siswa laki-laki berkacamata  dengan perempuan berkacamata di SMP 5 adalah 3 : 5.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "(1), (2), dan (3).",
+          "imageUrls": []
+        },
+        {
+          "text": "(1) dan (3).",
+          "imageUrls": []
+        },
+        {
+          "text": "(2) dan (4).",
+          "imageUrls": []
+        },
+        {
+          "text": "(4) saja.",
+          "imageUrls": []
+        },
+        {
+          "text": "semua benar.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "(1), (2), dan (3).",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 18,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714213232616_3xx7j5.png"
+        ]
+      },
+      "soal": {
+        "text": "Pada saat satu kayuhan maka perbandingan kecepatan sepeda A dengan sepeda B adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "3 : 1.",
+          "imageUrls": []
+        },
+        {
+          "text": "2 : 1.",
+          "imageUrls": []
+        },
+        {
+          "text": "3 : 2.",
+          "imageUrls": []
+        },
+        {
+          "text": "3 : 4",
+          "imageUrls": []
+        },
+        {
+          "text": "1 : 3.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "3 : 2.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 19,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714213232616_3xx7j5.png"
+        ]
+      },
+      "soal": {
+        "text": "Kedua sepeda berangkat pada waktu dan tempat secara bersamaan. Selisih jarak lintasan setelah 20 detik adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714213510833_8yq1zy.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714213510833_ulp45t.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714213510833_upnit8.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714213510833_w9cncz.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714213510833_vz0w9a.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714213510833_upnit8.png"
+        ]
+      }
+    },
+    {
+      "nomor": 20,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714213232616_3xx7j5.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika sepeda A dikayuh selama 14 detik, maka gear A2 telah berputar sebanyak ... kali.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "15",
+          "imageUrls": []
+        },
+        {
+          "text": "18",
+          "imageUrls": []
+        },
+        {
+          "text": "21",
+          "imageUrls": []
+        },
+        {
+          "text": "24",
+          "imageUrls": []
+        },
+        {
+          "text": "27",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "21",
+        "imageUrls": []
+      }
+    }
+  ],
+  "solusi": [
+    {
+      "nomor": 1,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714351373964_z6oh8n.png"
+    },
+    {
+      "nomor": 2,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714210603754_hpj1d5.png"
+    },
+    {
+      "nomor": 3,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714210794666_5uc0pg.png"
+    },
+    {
+      "nomor": 4,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714211040371_tckegm.png"
+    },
+    {
+      "nomor": 5,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714211236722_bzzav1.png"
+    },
+    {
+      "nomor": 6,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714211342669_63yjf4.png"
+    },
+    {
+      "nomor": 7,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714211457338_z6bhje.png"
+    },
+    {
+      "nomor": 8,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714211585839_dtfnca.png"
+    },
+    {
+      "nomor": 9,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714351442322_wxa26b.png"
+    },
+    {
+      "nomor": 10,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714360424229_wy8nzx.png"
+    },
+    {
+      "nomor": 11,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714351657255_votyr8.png"
+    },
+    {
+      "nomor": 12,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714212735805_4e5jxt.png"
+    },
+    {
+      "nomor": 13,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714212893507_0fervw.png"
+    },
+    {
+      "nomor": 14,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714213227523_l50e7h.png"
+    },
+    {
+      "nomor": 15,
+      "solusi": "Perempuan yang berkecamata sebanyak100 + 200 + 300 + 100 + 250 = 950 orang Laki-laki yang berkecamata sebanyak200 + 300 + 50 +150 +100 = 800 orang  Selisih = 950 – 800 = 150"
+    },
+    {
+      "nomor": 16,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714212973737_b04jyn.png"
+    },
+    {
+      "nomor": 17,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714362440902_87zm6x.png"
+    },
+    {
+      "nomor": 18,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714213332905_cbxcc9.png"
+    },
+    {
+      "nomor": 19,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714213510833_0h8qw5.png"
+    },
+    {
+      "nomor": 20,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714213368229_fc4ti4.png"
+    }
+  ]
+}
