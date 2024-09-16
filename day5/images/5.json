@@ -1,0 +1,872 @@
+{
+  "soal": [
+    {
+      "nomor": 1,
+      "soalCerita": {
+        "text": "Toko ponsel “ZAMZUNG” sedang melaksanakan promosi. Jika konsumen membeli di atas 2 juta rupiah, maka konsumen mendapatkan diskon sebesar 20%. Jika harga sebuah HP di atas 3 juta rupiah, maka konsumen mendapat tambahan diskon 10%.Toko “ZAMZUNG” juga mengeluarkan voucher sebesar Rp50.000,00 yang bisa digunakan untuk pembelian HP jenis apapun. Voucher diberlakukan setelah perhitungan diskon-diskon yang berlaku.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Yana membeli 2 buah HP di toko “ZAMZUNG”. HP yang pertama Rp1.950.000,00 dan HP yang kedua Rp2.250.000,00. Yana juga menggunakan 3 buah vouchertoko “ZAMZUNG”. Harga yang akan dibayarkan oleh Yana dengan pembelian 2 HP tersebut adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp4.200.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp3.510.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp3.460.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp3.360.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp3.210.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp3.210.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 2,
+      "soalCerita": {
+        "text": "Toko ponsel “ZAMZUNG” sedang melaksanakan promosi. Jika konsumen membeli di atas 2 juta rupiah, maka konsumen mendapatkan diskon sebesar 20%. Jika harga sebuah HP di atas 3 juta rupiah, maka konsumen mendapat tambahan diskon 10%.Toko “ZAMZUNG” juga mengeluarkan voucher sebesar Rp50.000,00 yang bisa digunakan untuk pembelian HP jenis apapun. Voucher diberlakukan setelah perhitungan diskon-diskon yang berlaku.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Budi membeli HP tipe Z007 seharga Rp3.500.000,00 di toko “ZAMZUNG”. Budi harus membayar sebesar",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp2.800.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp2.520.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp2.500.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp2.420.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp2.320.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp2.520.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 3,
+      "soalCerita": {
+        "text": "Kebun binatang Linkin Zoo dapat dikunjungi oleh warga kota Zingi dan sekitarnya.  Data pengunjung dan harga tiket pada hari kunjungan favorit warga adalah sebagai berikut.Pada setiap hari kunjungan favorit di Linkin Zoo terdata bahwa 50% adalah pengunjung dewasa.Pengelola Linkin Zoo memberi kategori rombongan untuk pengunjung lebih dari 4 orang dalam satu kelompok, dan memberikan promosi harga seperti pada alur berikut",
+        "imageUrls": [
+          "{{root_media}}/1714744556920_ffq2uq.png",
+          "{{root_media}}/1714744556920_cdq7r9.png"
+        ]
+      },
+      "soal": {
+        "text": "Total harga tiket Linkin Zoo untuk 1 rombongan yang terdiri dari 5 dewasa, 2 balita, 3 lansia, dan 3 anak usia 5—16 tahun adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp1.150.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp1.250.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp1.350.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp1.450.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp1.550.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp1.250.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 4,
+      "soalCerita": {
+        "text": "Kebun binatang Linkin Zoo dapat dikunjungi oleh warga kota Zingi dan sekitarnya.  Data pengunjung dan harga tiket pada hari kunjungan favorit warga adalah sebagai berikut.Pada setiap hari kunjungan favorit di Linkin Zoo terdata bahwa 50% adalah pengunjung dewasa.Pengelola Linkin Zoo memberi kategori rombongan untuk pengunjung lebih dari 4 orang dalam satu kelompok, dan memberikan promosi harga seperti pada alur berikut",
+        "imageUrls": [
+          "{{root_media}}/1714744556920_ffq2uq.png",
+          "{{root_media}}/1714744556920_cdq7r9.png"
+        ]
+      },
+      "soal": {
+        "text": "Pada hari Jumat terdapat 40 rombongan dengan setiap rombongan terdiri dari ayah, ibu, 2 anak remaja dan  1 balita sedangkan pengunjung selain rombongan adalah kategori dewasa dan anak usia 5—16 tahun. Pendapatan Linkin Zoo hari Jumat adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp61.080.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp62.080.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp63.080.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp64.080.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp65.080.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp63.080.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 5,
+      "soalCerita": {
+        "text": "Kebun binatang Linkin Zoo dapat dikunjungi oleh warga kota Zingi dan sekitarnya.  Data pengunjung dan harga tiket pada hari kunjungan favorit warga adalah sebagai berikut.Pada setiap hari kunjungan favorit di Linkin Zoo terdata bahwa 50% adalah pengunjung dewasa.Pengelola Linkin Zoo memberi kategori rombongan untuk pengunjung lebih dari 4 orang dalam satu kelompok, dan memberikan promosi harga seperti pada alur berikut",
+        "imageUrls": [
+          "{{root_media}}/1714744556920_ffq2uq.png",
+          "{{root_media}}/1714744556920_cdq7r9.png"
+        ]
+      },
+      "soal": {
+        "text": "Dua keluarga mengunjungi Linkin Zoo bersama-sama dan memutuskan untuk membentuk satu rombongan. Keluarga pertama terdiri dari ayah, ibu, 3 anak usia 5—16 tahun, dan 1 lansia. Sedangkan keluarga kedua terdiri dari ayah, ibu, 2 balita, dan 2 anak usia 5—16 tahun. Potongan harga yang diperoleh rombongan tersebut adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "Rp160.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp161.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp162.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp163.000,00.",
+          "imageUrls": []
+        },
+        {
+          "text": "Rp164.000,00.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "Rp160.000,00.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 7,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714747825546_i03jf1.png"
+        ]
+      },
+      "soal": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714708433761_c1c1of.png"
+        ]
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714708433761_8ay686.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714708433761_orll1r.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714747625340_uwcgp2.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714708433761_obovhi.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714708433761_hbwqwm.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714708433761_obovhi.png"
+        ]
+      }
+    },
+    {
+      "nomor": 8,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714747825546_i03jf1.png"
+        ]
+      },
+      "soal": {
+        "text": "Di dalam tenda akan ditempatkan kursi-kursi dengan ukuran yang sama. Jarak antar kursi pada sebuah baris adalah 0,25 m dan jarak kursi ke dinding tenda 1 m dengan ukuran kursi 0,4 m x 0,4 m. Jika lebar lapangan 18 m, maka banyaknya kursi pada 1 baris adalah ... buah.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "21",
+          "imageUrls": []
+        },
+        {
+          "text": "22",
+          "imageUrls": []
+        },
+        {
+          "text": "23",
+          "imageUrls": []
+        },
+        {
+          "text": "24",
+          "imageUrls": []
+        },
+        {
+          "text": "25",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "25",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 9,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714747825546_i03jf1.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika pada 1 baris terdapat 35 kursi maka lebar yang mungkin dari lapangan adalah ... m.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "24",
+          "imageUrls": []
+        },
+        {
+          "text": "24,5",
+          "imageUrls": []
+        },
+        {
+          "text": "25",
+          "imageUrls": []
+        },
+        {
+          "text": "25,5",
+          "imageUrls": []
+        },
+        {
+          "text": "26",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "24,5",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 10,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714747825546_i03jf1.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika lebar tenda adalah 9 m, maka luas atap tenda yang mungkin adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "200 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "205 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "210 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "215 m2.",
+          "imageUrls": []
+        },
+        {
+          "text": "220 m2.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "210 m2.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 11,
+      "soalCerita": {
+        "text": "Adang, Beben, dan Cinta medapatkan tugas pengetikan coding untuk suatu program. Pada minggu pertama mereka dapat menyelesaikan coding sebanyak 1.000 baris. Karena ada kesibukan lain, pada minggu kedua Adang hanya bisa mengerjakan 80%, Beben hanya mengerjakan 50%, dan Cinta hanya mengerjakan 30% sehingga mereka hanya mengerjakan 500 baris.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Jika pada minggu kesatu perbandingan banyak baris coding yang diketik Beben dan Cinta adalah 5 : 3 maka pada minggu kedua Beban mengetik coding sebanyak ... baris.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "90",
+          "imageUrls": []
+        },
+        {
+          "text": "100",
+          "imageUrls": []
+        },
+        {
+          "text": "250",
+          "imageUrls": []
+        },
+        {
+          "text": "300",
+          "imageUrls": []
+        },
+        {
+          "text": "400",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "250",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 12,
+      "soalCerita": {
+        "text": "Adang, Beben, dan Cinta medapatkan tugas pengetikan coding untuk suatu program. Pada minggu pertama mereka dapat menyelesaikan coding sebanyak 1.000 baris. Karena ada kesibukan lain, pada minggu kedua Adang hanya bisa mengerjakan 80%, Beben hanya mengerjakan 50%, dan Cinta hanya mengerjakan 30% sehingga mereka hanya mengerjakan 500 baris.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Jika pada minggu ketiga perbandingan banyak coding yang diketik Beben dengan  Cinta adalah x : 3y dan Adang sakit sehingga tidak bisa bekerja maka hubungan Cinta mengetik coding sebanyak ... baris.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709449145_ttzqui.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709449145_vcj0mo.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709449145_exsfs1.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714736194223_k2tha8.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709449145_5i3pl2.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714736194223_k2tha8.png"
+        ]
+      }
+    },
+    {
+      "nomor": 13,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714709538007_5atvid.png"
+        ]
+      },
+      "soal": {
+        "text": "Tangki 1 berbentuk slinder dengan tinggi h1 dan panjang jari-jari r1. Tangki 2 berbentuk slinder dengan tinggi h2 dan panjang jari-jari r2. Dua tangki tersebut   terisi penuh air dan kran dibuka. Jika laju keluaran air sama dan waktu yang diperlukan untuk mengosongkan tangki sama maka h1 : h2 adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709768924_nw6wg5.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709768925_af3nns.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709768925_5joqs9.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709768925_6vtpr2.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714709768925_ha4yoj.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714709768925_ha4yoj.png"
+        ]
+      }
+    },
+    {
+      "nomor": 14,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714709538007_5atvid.png"
+        ]
+      },
+      "soal": {
+        "text": "Tangki 1 dan tangki 2 berbentuk slinder dengan perbandingan tinggi h1 : h2 adalah  3 : 2,  luas alasnya sama, dan laju  keluaran air sama. Jika kedua tangki terisi penuh air maka perbandingan waktu untuk mengosongkan tangki adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714710037064_ww8jeh.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714710037064_o8udxu.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714710037064_xttdgh.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714710037064_289kzq.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714735638048_1vzky7.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714735638048_1vzky7.png"
+        ]
+      }
+    },
+    {
+      "nomor": 15,
+      "soalCerita": {
+        "text": "Sebuah sepeda anak memiliki tiga roda seperti gambar di bawah. Jari-jari roda belakang bagian kiri dan kanan sama, sedangkan perbandingan jari-jari roda depan dan belakang adalah 4 : 3. Waktu yang dibutuhkan untuk sekali mengayuh sepeda adalah 2 detik.",
+        "imageUrls": [
+          "{{root_media}}/1714714925142_xfdqlf.png"
+        ]
+      },
+      "soal": {
+        "text": "Perbandingan kecepatan roda depan dengan roda belakang adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "4 : 1.",
+          "imageUrls": []
+        },
+        {
+          "text": "4 : 2.",
+          "imageUrls": []
+        },
+        {
+          "text": "4 : 3.",
+          "imageUrls": []
+        },
+        {
+          "text": "3 : 1.",
+          "imageUrls": []
+        },
+        {
+          "text": "1 : 1.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "1 : 1.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 16,
+      "soalCerita": {
+        "text": "Sebuah sepeda anak memiliki tiga roda seperti gambar di bawah. Jari-jari roda belakang bagian kiri dan kanan sama, sedangkan perbandingan jari-jari roda depan dan belakang adalah 4 : 3. Waktu yang dibutuhkan untuk sekali mengayuh sepeda adalah 2 detik.",
+        "imageUrls": [
+          "{{root_media}}/1714714925142_xfdqlf.png"
+        ]
+      },
+      "soal": {
+        "text": "Banyak kayuhan yang dibutuhkan agar posisi titik P dan Q kembali ke posisi semula untuk kedua kalinya adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "1",
+          "imageUrls": []
+        },
+        {
+          "text": "2",
+          "imageUrls": []
+        },
+        {
+          "text": "3",
+          "imageUrls": []
+        },
+        {
+          "text": "4",
+          "imageUrls": []
+        },
+        {
+          "text": "5",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "3",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 17,
+      "soalCerita": {
+        "text": "Sebuah sepeda anak memiliki tiga roda seperti gambar di bawah. Jari-jari roda belakang bagian kiri dan kanan sama, sedangkan perbandingan jari-jari roda depan dan belakang adalah 4 : 3. Waktu yang dibutuhkan untuk sekali mengayuh sepeda adalah 2 detik.",
+        "imageUrls": [
+          "{{root_media}}/1714714925142_xfdqlf.png"
+        ]
+      },
+      "soal": {
+        "text": "Waktu minimum yang dibutuhkan agar posisi titik P dan Q kembali ke posisi semula untuk kedua kalinya adalah ... detik.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "4",
+          "imageUrls": []
+        },
+        {
+          "text": "6",
+          "imageUrls": []
+        },
+        {
+          "text": "8",
+          "imageUrls": []
+        },
+        {
+          "text": "10",
+          "imageUrls": []
+        },
+        {
+          "text": "12",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "6",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 18,
+      "soalCerita": {
+        "text": "Terdapat 10 toko yang menjual buku jenis yang sama dengan rata-rata penjualan pada tahun 2021 adalah 90.000 buku. Pada tahun 2022 naik sebesar 5.000.",
+        "imageUrls": [
+          "{{root_media}}/1714715526020_y9a3dd.png"
+        ]
+      },
+      "soal": {
+        "text": "Toko dengan kenaikan penjualan tertinggi adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "A",
+          "imageUrls": []
+        },
+        {
+          "text": "B",
+          "imageUrls": []
+        },
+        {
+          "text": "​C",
+          "imageUrls": []
+        },
+        {
+          "text": "D",
+          "imageUrls": []
+        },
+        {
+          "text": "E",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "B",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 19,
+      "soalCerita": {
+        "text": "Terdapat 10 toko yang menjual buku jenis yang sama dengan rata-rata penjualan pada tahun 2021 adalah 90.000 buku. Pada tahun 2022 naik sebesar 5.000.",
+        "imageUrls": [
+          "{{root_media}}/1714715526020_y9a3dd.png"
+        ]
+      },
+      "soal": {
+        "text": "Rata-rata penjualan buku pada 5 toko lain tahun 2022 adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "12.500.",
+          "imageUrls": []
+        },
+        {
+          "text": "13.000.",
+          "imageUrls": []
+        },
+        {
+          "text": "13.500.",
+          "imageUrls": []
+        },
+        {
+          "text": "14.000.",
+          "imageUrls": []
+        },
+        {
+          "text": "14.500.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "14.000.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 20,
+      "soalCerita": {
+        "text": "Terdapat 10 toko yang menjual buku jenis yang sama dengan rata-rata penjualan pada tahun 2021 adalah 90.000 buku. Pada tahun 2022 naik sebesar 5.000.",
+        "imageUrls": [
+          "{{root_media}}/1714715526020_y9a3dd.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika pada tahun 2023 penjulan buku di toko C, D, dan E mengalami kenaikan berturut-turut 10%, 20%, 30%. Toko dengan kenaikan tertinggi dibanding tahun 2021 adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "A",
+          "imageUrls": []
+        },
+        {
+          "text": "B",
+          "imageUrls": []
+        },
+        {
+          "text": "C",
+          "imageUrls": []
+        },
+        {
+          "text": "D",
+          "imageUrls": []
+        },
+        {
+          "text": "E",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "E",
+        "imageUrls": []
+      }
+    }
+  ],
+  "solusi": [
+    {
+      "nomor": 1,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714744518356_3a4clc.png"
+    },
+    {
+      "nomor": 2,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714744681739_guz33j.png"
+    },
+    {
+      "nomor": 3,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714744720498_299xc3.png"
+    },
+    {
+      "nomor": 4,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714793132462_a6p8ms.png"
+    },
+    {
+      "nomor": 5,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714745059842_u9gcd2.png"
+    },
+    {
+      "nomor": 6,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714708147787_lsl2ai.png"
+    },
+    {
+      "nomor": 7,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714708433761_cd8vlr.png"
+    },
+    {
+      "nomor": 8,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714708654212_b85uxn.png"
+    },
+    {
+      "nomor": 9,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714708815406_r2dl10.png"
+    },
+    {
+      "nomor": 10,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714709030475_zte7xb.png"
+    },
+    {
+      "nomor": 11,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714709259840_pgdwke.png"
+    },
+    {
+      "nomor": 12,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714736194223_a9csd2.png"
+    },
+    {
+      "nomor": 13,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714709768924_7253y5.png"
+    },
+    {
+      "nomor": 14,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714710037064_4ikqcj.png"
+    },
+    {
+      "nomor": 15,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714812711217_ov4fqz.png"
+    },
+    {
+      "nomor": 16,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714715221654_itqurp.png"
+    },
+    {
+      "nomor": 17,
+      "solusi": "Tiga kayuhan selama  3 x 2 = 6 detik"
+    },
+    {
+      "nomor": 18,
+      "solusi": "Toko A: penurunan 20 bukuToko B: naik 80Toko C: naik 55Toko D: naik 15Toko E: naik 45"
+    },
+    {
+      "nomor": 19,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714715742581_p9e5wy.png"
+    },
+    {
+      "nomor": 20,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714715854621_xkpjhu.png"
+    }
+  ]
+}
