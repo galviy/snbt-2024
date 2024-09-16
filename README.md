@@ -1,9 +1,9 @@
 ### halooo pejuang utbk!
 
-**Salken:**
+###**Salken:**
 Salken ya... nama aku galvin sekarang sedang berkuliah di undip jurusan informatika <3
 
-**Curhat bentar..**
+###**Curhat bentar..**
 
 Alasan aku masi nge-save soal2 snbt karena aku udah pesimis saat snbt kemarin..
 
