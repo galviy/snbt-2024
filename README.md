@@ -16,5 +16,5 @@ tapi gapapa walau allah tidak mentakdirkan aku berkuliah di Institut Teknologi B
 
 aku gamau pengalaman ini terjadi kepada kalian makanya aku share soal2 ini gratis untuk kalian berjuang!
 
-untuk kalian yang mengejar STEI-K, Kedokteran, dan jurusan-jurusan yang tinggi lainya SEMANGATT Yaa!!! ALLAH pasti punya jalan
+untuk kalian yang mengejar **STEI-K**, **Kedokteran**, dan jurusan-jurusan yang tinggi lainya SEMANGATT Yaa!!! ALLAH pasti punya jalan
 
