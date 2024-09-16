@@ -1,0 +1,780 @@
+{
+  "soal": [
+    {
+      "nomor": 1,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714099093499_d3qc3c.png"
+        ]
+      },
+      "soal": {
+        "text": "Bianglala berputar satu putaran dalam waktu ... menit.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "6",
+          "imageUrls": []
+        },
+        {
+          "text": "7",
+          "imageUrls": []
+        },
+        {
+          "text": "8",
+          "imageUrls": []
+        },
+        {
+          "text": "9",
+          "imageUrls": []
+        },
+        {
+          "text": "10",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "6",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 2,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714099093499_d3qc3c.png"
+        ]
+      },
+      "soal": {
+        "text": "Pada suatu saat seseorang berada pada titik B. sembilan menit kemudian, dia berada pada titik yang jaraknya ke garis AC adalah ... meter.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "0",
+          "imageUrls": []
+        },
+        {
+          "text": "20",
+          "imageUrls": []
+        },
+        {
+          "text": "25",
+          "imageUrls": []
+        },
+        {
+          "text": "35",
+          "imageUrls": []
+        },
+        {
+          "text": "50",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "50",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 3,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714099093499_d3qc3c.png"
+        ]
+      },
+      "soal": {
+        "text": "Misalkan QR adalah tiang dengan tinggi 10 meter. Jarak terjauh antara lampu dan titik Q adalah ... meter.Jawablah soal berikut dengan mengetikkan jawaban berupa angka (bilangan bulat tanpa koma atau titik)!",
+        "imageUrls": []
+      },
+      "jawaban": {
+        "text": "150",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 4,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714099093499_d3qc3c.png"
+        ]
+      },
+      "soal": {
+        "text": "Pada saat jarak lampu ke titik Q mencapai nilai terpendek, panjang bayangan tiang QR adalah ... meter.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714102004261_rfcyui.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714102004261_b7vlya.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714102004261_dlnfbk.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714102004261_73mvhp.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714102004261_kpwyvl.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714102004261_dlnfbk.png"
+        ]
+      }
+    },
+    {
+      "nomor": 5,
+      "soalCerita": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714099093499_d3qc3c.png"
+        ]
+      },
+      "soal": {
+        "text": "Misalkan titik X pada tanah adalah bayangan titik Q oleh lampu ketika bayangan tiang QR paling pendek. Titik Y pada tanah adalah bayangan titik Q ketika bayangan tiang QR paling panjang.  Titik A’ adalah bayangan titik Q di tanah ketika lampu berada di titik A. Ketika lampu berputar mulai dari titik A, urutan posisi bayangan titik Q di tanah adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "A'-X-A'-B'-Y-B'-A'.",
+          "imageUrls": []
+        },
+        {
+          "text": "A'-B'-X-B'-A'-Y-A'.",
+          "imageUrls": []
+        },
+        {
+          "text": "A'-Y-A’-B'-X-B’-A'.",
+          "imageUrls": []
+        },
+        {
+          "text": "A'-B'-V-B'-A'-X-A'.",
+          "imageUrls": []
+        },
+        {
+          "text": "A'-B'-X-B'-A'-Y-A'.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "A'-Y-A’-B'-X-B’-A'.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 7,
+      "soalCerita": {
+        "text": "Diagram berikut menampilkan data mengenai populasi angkatan kerja di dua kecamatan, yaitu A dan B, pada tahun 2022 berdasarkan status bekerja, menganggur, dan tidak aktif secara ekonomi.Diketahui populasi angkatan kerja di Kecamatan A adalah 20.000 orang, sedangkan di Kecamatan B adalah 15.000 orang.",
+        "imageUrls": [
+          "{{root_media}}/1714102931796_2kdq3t.png"
+        ]
+      },
+      "soal": {
+        "text": "Perbandingan permil angkatan kerja yang bekerja di Kecamatan A dengan yang bekerja atau menganggur dari kedua kecamatan adalah…‰Jawablah soal berikut dengan mengetikkan jawaban berupa angka (bilangan bulat tanpa koma atau titik)!",
+        "imageUrls": []
+      },
+      "jawaban": {
+        "text": "375",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 8,
+      "soalCerita": {
+        "text": "Diagram berikut menampilkan data mengenai populasi angkatan kerja di dua kecamatan, yaitu A dan B, pada tahun 2022 berdasarkan status bekerja, menganggur, dan tidak aktif secara ekonomi.Diketahui populasi angkatan kerja di Kecamatan A adalah 20.000 orang, sedangkan di Kecamatan B adalah 15.000 orang.",
+        "imageUrls": [
+          "{{root_media}}/1714102931796_2kdq3t.png"
+        ]
+      },
+      "soal": {
+        "text": "Dari semua angkatan kerja yang tidak aktif secara ekonomi di kedua kecamatan, persentase yang tinggal di Kecamatan B adalah ... %.Jawablah soal berikut dengan mengetikkan jawaban hanya berupa angka (bilangan bulat tanpa koma atau titik)!",
+        "imageUrls": []
+      },
+      "jawaban": {
+        "text": "20",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 9,
+      "soalCerita": {
+        "text": "Diagram berikut menampilkan data mengenai populasi angkatan kerja di dua kecamatan, yaitu A dan B, pada tahun 2022 berdasarkan status bekerja, menganggur, dan tidak aktif secara ekonomi.Diketahui populasi angkatan kerja di Kecamatan A adalah 20.000 orang, sedangkan di Kecamatan B adalah 15.000 orang.",
+        "imageUrls": [
+          "{{root_media}}/1714102931796_2kdq3t.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika seseorang dipilih secara acak dari kedua kecamatan, peluang orang yang terpilih bekerja atau menganggur adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714119233694_z0xrpg.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714119233694_qzz9f1.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714119233694_mwn9l4.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714119233694_8rpuir.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714119233694_znci6i.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714119233694_mwn9l4.png"
+        ]
+      }
+    },
+    {
+      "nomor": 10,
+      "soalCerita": {
+        "text": "Diagram berikut menampilkan data mengenai populasi angkatan kerja di dua kecamatan, yaitu A dan B, pada tahun 2022 berdasarkan status bekerja, menganggur, dan tidak aktif secara ekonomi.Diketahui populasi angkatan kerja di Kecamatan A adalah 20.000 orang, sedangkan di Kecamatan B adalah 15.000 orang.",
+        "imageUrls": [
+          "{{root_media}}/1714102931796_2kdq3t.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika pada tahun 2023 terjadi kenaikan jumlah orang yang bekerja di Kecamatan A sebanyak 20% dari tahun sebelumnya, dengan asumsi populasi angkatan kerja dan orang yang tidak aktif secara ekonomi tetap, maka persentase pengangguran di Kecamatan A berkurang ... % dari jumlah pengangguran sebelumnya di kecamatan A.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "10",
+          "imageUrls": []
+        },
+        {
+          "text": "11",
+          "imageUrls": []
+        },
+        {
+          "text": "42,85",
+          "imageUrls": []
+        },
+        {
+          "text": "43,55",
+          "imageUrls": []
+        },
+        {
+          "text": "45,50",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "42,85",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 11,
+      "soalCerita": {
+        "text": "Dalam suatu kelas terdapat 15 murid laki-laki dan 18 murid perempuan. Rata-rata nilai ulangan Matematika di kelas tersebut adalah 83. Setelah melihat hasil tersebut, guru Matematika memberikan kesempatan kepada 3 murid, dengan nilai masing-masing 52, 57, dan 62 untuk melakukan remedial. Diketahui bahwa nilai rata-rata peserta remedial naik 11 poin.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Jika sebelum remedial, rata-rata nilai ulangan murid laki-laki di kelas tersebut adalah 77 maka rata-rata nilai ulangan murid perempuan adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "87,5.",
+          "imageUrls": []
+        },
+        {
+          "text": "88.",
+          "imageUrls": []
+        },
+        {
+          "text": "88,5.",
+          "imageUrls": []
+        },
+        {
+          "text": "89",
+          "imageUrls": []
+        },
+        {
+          "text": "90.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "88.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 12,
+      "soalCerita": {
+        "text": "Dalam suatu kelas terdapat 15 murid laki-laki dan 18 murid perempuan. Rata-rata nilai ulangan Matematika di kelas tersebut adalah 83. Setelah melihat hasil tersebut, guru Matematika memberikan kesempatan kepada 3 murid, dengan nilai masing-masing 52, 57, dan 62 untuk melakukan remedial. Diketahui bahwa nilai rata-rata peserta remedial naik 11 poin.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Diberikan pernyataan berikut!(1)   Rata-rata nilai kelas tanpa memperhitungkan ketiga murid yang mengikuti remedial adalah 85,6.(2)   Sebelum remedial, rata-rata nilai ulangan yang mengikuti remedial adalah 58.(3)   Setelah remedial, rata-rata nilai ulangan seluruh murid menjadi 84.(4)   Jangkauan data nilai tiga murid sebelum mengikuti remedial adalah 11.Pernyataan di atas yang benar adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "1, 2, dan 3.",
+          "imageUrls": []
+        },
+        {
+          "text": "1 dan 3.",
+          "imageUrls": []
+        },
+        {
+          "text": "2 dan 4.",
+          "imageUrls": []
+        },
+        {
+          "text": "4.",
+          "imageUrls": []
+        },
+        {
+          "text": "1, 2, 3, dan 4.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "1 dan 3.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 14,
+      "soalCerita": {
+        "text": "Dalam suatu kelas terdapat 15 murid laki-laki dan 18 murid perempuan. Rata-rata nilai ulangan Matematika di kelas tersebut adalah 83. Setelah melihat hasil tersebut, guru Matematika memberikan kesempatan kepada 3 murid, dengan nilai masing-masing 52, 57, dan 62 untuk melakukan remedial. Diketahui bahwa nilai rata-rata peserta remedial naik 11 poin.",
+        "imageUrls": []
+      },
+      "soal": {
+        "text": "Akan dipilih pengurus inti kelas yang terdiri dari 4 murid. Peluang kelas memiliki dua atau tiga murid laki-laki sebagai anggota pengurus inti adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123336143_jj3rmr.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123336143_ota4px.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123336143_akqc7q.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123336143_ky6vic.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123336143_310sbg.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714123336143_310sbg.png"
+        ]
+      }
+    },
+    {
+      "nomor": 15,
+      "soalCerita": {
+        "text": "Kambing ditempatkan dalam kandang pada suatu halaman penuh rumput. Kandang berbentuk persegi panjang PQRS dengan panjang PQ = 16 meter dan lebar QR = 12 meter. Kambing ditempatkan pada dinding PQ dengan tali yang panjangnya a meter. Pangkal tali ditambatkan pada dinding PQ di titik K berjarak x meter dari titik sudut P.",
+        "imageUrls": [
+          "{{root_media}}/1714123536172_9yd8k9.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika diketahui bahwa 0 < a < 8 meter, daerah merumput kambing akan maksimal jika",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123752589_pwmgps.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123752589_fjirw1.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123752589_6n7v9n.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123752589_djie18.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714123752589_95ayd4.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714123752589_95ayd4.png"
+        ]
+      }
+    },
+    {
+      "nomor": 16,
+      "soalCerita": {
+        "text": "Kambing ditempatkan dalam kandang pada suatu halaman penuh rumput. Kandang berbentuk persegi panjang PQRS dengan panjang PQ = 16 meter dan lebar QR = 12 meter. Kambing ditempatkan pada dinding PQ dengan tali yang panjangnya a meter. Pangkal tali ditambatkan pada dinding PQ di titik K berjarak x meter dari titik sudut P.",
+        "imageUrls": [
+          "{{root_media}}/1714123536172_9yd8k9.png"
+        ]
+      },
+      "soal": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714124047095_rq05e3.png"
+        ]
+      },
+      "opsiSoal": [
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714124047095_c3rghm.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714124047096_hq86y1.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714124047096_rzsh3q.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714124047096_11jsfp.png"
+          ]
+        },
+        {
+          "text": "",
+          "imageUrls": [
+            "{{root_media}}/1714124047096_vab46i.png"
+          ]
+        }
+      ],
+      "jawaban": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714124047096_vab46i.png"
+        ]
+      }
+    },
+    {
+      "nomor": 17,
+      "soalCerita": {
+        "text": "Kambing ditempatkan dalam kandang pada suatu halaman penuh rumput. Kandang berbentuk persegi panjang PQRS dengan panjang PQ = 16 meter dan lebar QR = 12 meter. Kambing ditempatkan pada dinding PQ dengan tali yang panjangnya a meter. Pangkal tali ditambatkan pada dinding PQ di titik K berjarak x meter dari titik sudut P.",
+        "imageUrls": [
+          "{{root_media}}/1714123536172_9yd8k9.png"
+        ]
+      },
+      "soal": {
+        "text": "",
+        "imageUrls": [
+          "{{root_media}}/1714124282534_xy7m08.png"
+        ]
+      },
+      "opsiSoal": [
+        {
+          "text": "7.",
+          "imageUrls": []
+        },
+        {
+          "text": "8.",
+          "imageUrls": []
+        },
+        {
+          "text": "9.",
+          "imageUrls": []
+        },
+        {
+          "text": "10.",
+          "imageUrls": []
+        },
+        {
+          "text": "12.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "10.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 18,
+      "soalCerita": {
+        "text": "Berikut ini adalah tabel klasmen sementara lima klub teratas di LaLiga Spanyol tahun 2023/2024. Setiap klub melakukan tepat dua pertandingan dengan setiap tim lain dimana terdapat 20 klub yang bermain di LaLiga Spanyol. Poin yang diberikan di bawah ini adalah setelah klub memainkan sekitar tiga puluh pertandingan.Untuk setiap kemenangan, klub akan mendapatkan 3 poin, imbang 1 poin, dan kalah 0 poin.",
+        "imageUrls": [
+          "{{root_media}}/1714124421724_74qn3d.png"
+        ]
+      },
+      "soal": {
+        "text": "Total banyaknya pertandingan di LaLiga Spanyol adalah ... pertandingan.",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "190",
+          "imageUrls": []
+        },
+        {
+          "text": "200",
+          "imageUrls": []
+        },
+        {
+          "text": "380",
+          "imageUrls": []
+        },
+        {
+          "text": "400",
+          "imageUrls": []
+        },
+        {
+          "text": "760",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "380",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 19,
+      "soalCerita": {
+        "text": "Berikut ini adalah tabel klasmen sementara lima klub teratas di LaLiga Spanyol tahun 2023/2024. Setiap klub melakukan tepat dua pertandingan dengan setiap tim lain dimana terdapat 20 klub yang bermain di LaLiga Spanyol. Poin yang diberikan di bawah ini adalah setelah klub memainkan sekitar tiga puluh pertandingan.Untuk setiap kemenangan, klub akan mendapatkan 3 poin, imbang 1 poin, dan kalah 0 poin.",
+        "imageUrls": [
+          "{{root_media}}/1714124421724_74qn3d.png"
+        ]
+      },
+      "soal": {
+        "text": "Poin minimal yang harus diperoleh Real Madrid dipertandingan tersisa untuk menjamin tim ini sebagai juara LaLiga Spanyol 2023/2024 adalah",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "14.",
+          "imageUrls": []
+        },
+        {
+          "text": "15.",
+          "imageUrls": []
+        },
+        {
+          "text": "16.",
+          "imageUrls": []
+        },
+        {
+          "text": "17.",
+          "imageUrls": []
+        },
+        {
+          "text": "18.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "17.",
+        "imageUrls": []
+      }
+    },
+    {
+      "nomor": 20,
+      "soalCerita": {
+        "text": "Berikut ini adalah tabel klasmen sementara lima klub teratas di LaLiga Spanyol tahun 2023/2024. Setiap klub melakukan tepat dua pertandingan dengan setiap tim lain dimana terdapat 20 klub yang bermain di LaLiga Spanyol. Poin yang diberikan di bawah ini adalah setelah klub memainkan sekitar tiga puluh pertandingan.Untuk setiap kemenangan, klub akan mendapatkan 3 poin, imbang 1 poin, dan kalah 0 poin.",
+        "imageUrls": [
+          "{{root_media}}/1714124421724_74qn3d.png"
+        ]
+      },
+      "soal": {
+        "text": "Jika di pertandingan tersisa Barcelona memenangkan dua pertandingan dan sisanya imbang, kemungkinan komposisi menang-imbang-kalah untuk girona pada pertandingan sisa untuk menjamin bahwa Girona menempati posisi kedua pada klasmen akhir adalah(1)   5-2-1                 (2)   6-0-2 (3)   5-3-0(4)   4-4-0",
+        "imageUrls": []
+      },
+      "opsiSoal": [
+        {
+          "text": "1, 2, 3 benar.",
+          "imageUrls": []
+        },
+        {
+          "text": "1, 3 benar.",
+          "imageUrls": []
+        },
+        {
+          "text": "2, 4 benar.",
+          "imageUrls": []
+        },
+        {
+          "text": "4 saja benar.",
+          "imageUrls": []
+        },
+        {
+          "text": "semua benar.",
+          "imageUrls": []
+        }
+      ],
+      "jawaban": {
+        "text": "semua benar.",
+        "imageUrls": []
+      }
+    }
+  ],
+  "solusi": [
+    {
+      "nomor": 1,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714100177132_ds3r9l.png"
+    },
+    {
+      "nomor": 2,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714100422405_pd70ob.png"
+    },
+    {
+      "nomor": 3,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714100887347_5bnck4.png"
+    },
+    {
+      "nomor": 4,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714102004261_h7vv8r.png"
+    },
+    {
+      "nomor": 5,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714102234533_qn7ki3.png"
+    },
+    {
+      "nomor": 6,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714103236276_frgqav.png"
+    },
+    {
+      "nomor": 7,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714104356196_r1umzp.png"
+    },
+    {
+      "nomor": 8,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714119032758_7fpdcs.png"
+    },
+    {
+      "nomor": 9,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714119233694_xv4n8a.png"
+    },
+    {
+      "nomor": 10,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714121492333_x54jy7.png"
+    },
+    {
+      "nomor": 11,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714121679197_nvnhog.png"
+    },
+    {
+      "nomor": 12,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714121794044_z8gj7i.png"
+    },
+    {
+      "nomor": 13,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714122580198_g8w4fn.png"
+    },
+    {
+      "nomor": 14,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714123336142_ua4xrh.png"
+    },
+    {
+      "nomor": 15,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714123752589_syea6w.png"
+    },
+    {
+      "nomor": 16,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714124047095_20vm6k.png"
+    },
+    {
+      "nomor": 17,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714124282534_75m0ft.png"
+    },
+    {
+      "nomor": 18,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714124560951_3idivg.png"
+    },
+    {
+      "nomor": 19,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714124715854_3xwcfh.png"
+    },
+    {
+      "nomor": 20,
+      "solusi": "https://assets.ganeshaoperationexpert.com/banksoal/media/1714124936463_rh4oml.png"
+    }
+  ]
+}
