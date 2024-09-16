@@ -66,7 +66,7 @@
 ### 6.
 
 
-![](images//1714124132929_0rkrgq.png
+![](images//1714124132929_0rkrgq.png)
 **Opsi:**
 
 
@@ -78,7 +78,7 @@
 ### 7.
 
 
-![](images//1714124306719_qm1qev.png
+![](images//1714124306719_qm1qev.png)
 **Opsi:**
 
 
@@ -104,7 +104,7 @@
 
 **Soal:** Jawablah soal berikut dengan mengetikkan jawaban berupa angka (bilangan bulat tanpa koma atau titik)!
 
-![](images//1714124551322_e4jrjj.png
+![](images//1714124551322_e4jrjj.png)
 ### Soal Essay
 ### 10.
 
@@ -122,7 +122,7 @@
 ### 11.
 
 
-![](images//1714124803859_eerddd.png
+![](images//1714124803859_eerddd.png)
 **Opsi:**
 
 
@@ -131,14 +131,14 @@
 - C.
 - D.
 - E.
-![](images//1714124803859_tf5fpl.png
-![](images//1714124803860_salrkd.png
-![](images//1714124803860_ziyj9x.png
-![](images//1714124803860_h91krr.png
+![](images//1714124803859_tf5fpl.png)
+![](images//1714124803860_salrkd.png)
+![](images//1714124803860_ziyj9x.png)
+![](images//1714124803860_h91krr.png)
 ### 12.
 
 
-![](images//1714124898003_nfml4o.png
+![](images//1714124898003_nfml4o.png)
 **Opsi:**
 
 
@@ -178,7 +178,7 @@
 
 **Soal:** Tiga bola diambil dari sebuah kotak yang berisi 2 bola merah dan 4 bola kuning. Pada percobaan mengambil tiga bola sekaligus, misalkan A menyatakan kejadian terambilnya 1 bola merah dan 2 bola kuning dan P(A) menyatakan peluang kejadian A.Berdasarkan informasi yang diberikan manakah hubungan antara kuantitas P dan Q berikut yang benar?
 
-![](images//1714125268115_6j7atg.png
+![](images//1714125268115_6j7atg.png)
 **Opsi:**
 
 
@@ -189,7 +189,7 @@
 ### 16.
 
 
-![](images//1714125361179_b8ykbc.png
+![](images//1714125361179_b8ykbc.png)
 **Opsi:**
 
 
@@ -200,7 +200,7 @@
 ### 17.
 
 
-![](images//1714125844458_qtn7lr.png
+![](images//1714125844458_qtn7lr.png)
 **Opsi:**
 
 
@@ -212,7 +212,7 @@
 ### 18.
 
 
-![](images//1714126031769_rkepjw.png
+![](images//1714126031769_rkepjw.png)
 **Opsi:**
 
 
