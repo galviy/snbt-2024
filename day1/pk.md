@@ -4,11 +4,11 @@
 **Question:** Nilai maksimum fungsi kuadrat f adalah 80 dan grafik fungsi tersebut melalui titik (–2, 0) dan (6, 0). Grafik fungsi tersebut juga melalui titik (3, c) dengan c =
 
 **Opsi:**
-A. 55
-B. 60
-C. 65
-D. 70
-E. 75
+- A. 55
+- B. 60
+- C. 65
+- D. 70
+- E. 75
 ### 2.
 Paragraf untuk soal nomor 2, 3, dan 4.Bilangan empat angka a182 kurang dari 6000.Jika bilangan tersebut dibagi 3 bersisa 2, maka a =
 **Opsi:**
