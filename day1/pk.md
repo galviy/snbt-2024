@@ -1,6 +1,8 @@
 
 ### 1.
-Nilai maksimum fungsi kuadrat f adalah 80 dan grafik fungsi tersebut melalui titik (–2, 0) dan (6, 0). Grafik fungsi tersebut juga melalui titik (3, c) dengan c =
+
+**Question:** Nilai maksimum fungsi kuadrat f adalah 80 dan grafik fungsi tersebut melalui titik (–2, 0) dan (6, 0). Grafik fungsi tersebut juga melalui titik (3, c) dengan c =
+
 **Opsi:**
 A. 55
 B. 60
