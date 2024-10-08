@@ -30,7 +30,10 @@ function readdirectory() {
 }
 
 function readfile(data, save_file, directory_images) {
-    let p = 0;
+    let save_as = ''; 
+    save_as += `- ![](axevius.jpeg)\n`
+    save_as += "- **Disusun oleh**: Axevius\n"
+    save_as += `- **Jika Allah belum mengabulkan keinginan-mu, maka tahajudlah, karena Allah masih ingin mendengar mu berdoa di sepertiga malam-mu**\n**~ Pak Deden ' 24**\n\n\n`
     for (let i = 0; i < data.solusi.length; i++) {
         p++
         console.log(data.solusi[i])
